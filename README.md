@@ -13,7 +13,7 @@ tweakcn lets you design custom themes for shadcn/ui components. This preview app
 
 ## Tech Stack
 
-- [Next.js 15](https://nextjs.org) · [React 19](https://react.dev)
+- [Next.js 16](https://nextjs.org) · [React 19](https://react.dev)
 - [Tailwind CSS v4](https://tailwindcss.com)
 - [shadcn/ui](https://ui.shadcn.com) components (Radix UI + CVA)
 - [next-themes](https://github.com/pacocoursey/next-themes) for dark mode
